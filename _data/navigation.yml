@@ -1,0 +1,6 @@
+- title: 'Home'
+  url: /
+- title: 'Post Archive'
+  url: /posts/
+- title: Search
+  url: /search/
