@@ -1,6 +1,6 @@
 ---
 title: "Perfectionist's Crushing"
-excerpt:
+excerpt: "When the mind grows empty and receptive, creative dreams rush in — unless the perfectionist's hunger is craving for another meal."
 ---
 
 ---
