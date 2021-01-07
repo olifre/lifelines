@@ -1,6 +1,6 @@
 ---
 title: "Perfectionist's Crushing"
-excerpt: "When the mind grows empty and receptive, creative dreams rush in — unless the perfectionist's hunger is craving for another meal."
+excerpt: "When the mind grows empty and receptive, tranquility and creative dreams rush in — unless the perfectionist's hunger is craving for a different meal, deprived of that healthiness."
 ---
 
 ---
@@ -11,7 +11,7 @@ excerpt: "When the mind grows empty and receptive, creative dreams rush in — u
 
 ---
 
-When the mind grows empty and receptive, creative dreams rush in — unless the perfectionist's hunger is craving for another meal.
+When the mind grows empty and receptive, tranquility and creative dreams rush in — unless the perfectionist's hunger is craving for a different meal, deprived of that healthiness.
 Silently, doubts of work, goals, known imperfections creep in, and all raise their shrieking voices.
 A crowd of thousand armed people romp about the brain, heat it up, emanate unrest, shut out any silence or tranquility.
 
