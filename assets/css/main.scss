@@ -5,9 +5,16 @@ sitemap: false
 
 @charset "utf-8";
 
-
 /* Site logo */
 $site-logo-width: 0.5*520px !default;
 $site-logo-height: 0.5*121px !default;
+
+/* Text formatting */
+.e-content p {
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  text-align: justify;
+}
 
 @import "so-simple";
