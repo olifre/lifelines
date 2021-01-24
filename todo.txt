@@ -1,6 +1,7 @@
 |Miya Kazuki
 |Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke Volume 2
-"[...], time spent thinking about how to make things go your way is time wasted. The future is always an unknown; the best we can do is what we deem to be right."
+"[...], time spent thinking about how to make things go your way is time wasted.
+The future is always an unknown; the best we can do is what we deem to be right."
 
 |Miya Kazuki
 |Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke Volume 2
@@ -128,7 +129,7 @@ Julian: It certainly may be an act of idiocy.
 
 |Legend of the Galactic Heroes
 |Ep. 109
-Muller: Herr Minci, I wonder which\Nof us is more fortunate.
+Muller: Herr Minci, I wonder which of us is more fortunate.
         When Fleet Admiral Yang passed away, you didn't know of it till it happened.
         On the other hand, we've been given time to prepare ourselves before His Majesty passes away.
         But while your sorrow began at its starting point, we first have to get to the goal
@@ -147,7 +148,7 @@ Julian: That's right.
 |Ep. 110
 Karin: Hey, Julian, in any case, Starzone Baalat will remain in the hands of democracy, right ?
 Julian: Yeah.
-        That's all, isn't it,\Nwhen you think about it ?
+        That's all, isn't it, when you think about it ?
         Right - that's all there is.
         To accomplish just this little thing, we needed 500 years of time and billions of lives.
         If only the people hadn't lost their interest in politics around the end of the Galactic Confederation.
@@ -196,14 +197,22 @@ Maybe there's more to our brains than just what's in our skulls.
 In some way, they may be connected to the whole world. Like how smartphones are connected to the cloud, even though you can't see it.
 
 |Yusuke Kishi
-|Shinsekai Yori — From the New World, III — Deep Autumn
-“Where should I start? ...all problems stem from the human mind.”
+|Shinsekai Yori — From the New World, Chapter III: Deep Autumn
+"Where should I start? ...all problems stem from the human mind."
 
 |Yusuke Kishi
-|Shinsekai Yori — From the New World, IV — Winter's Distant Thunder
+|Shinsekai Yori — From the New World, Chapter IV: Winter's Distant Thunder
 The world is full of things that should probably be left unknown. 
 Don't you think that sometimes the truth is the cruelest of all? Not everyone can bear it.
 
 |Yusuke Kishi
-|Shinsekai Yori — From the New World, VI — Beacon in the Dark
+|Shinsekai Yori — From the New World, Chaper VI: Beacon in the Dark
 The power of imagination is what changes everything.
+
+|Philip Pullman
+We don't need lists of rights and wrongs, tables of do's and don'ts: 
+we need books, time, and silence. Thou shalt not is soon forgotten, but Once upon a time lasts forever.
+
+|Jun Maeda
+|Angel Beats
+Even if we forget the faces of our friends, we will never forget the bonds that were carved into our souls.
