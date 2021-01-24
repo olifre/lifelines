@@ -6,7 +6,7 @@ excerpt: 'Eyes closed, he woke up. Something had changed around him, something h
 ---
 
 > Shinichiro, you can fly. You just don’t know it yourself. But... this isn’t the place where you take flight.
-> <footer><strong>Isurugi Noe</strong></footer>
+> <footer><strong>Isurugi Noe</strong> in True Tears (2008)</footer>
 
 ---
 
