@@ -8,14 +8,14 @@ innate wisdom."
 
 ---
 > **Rika:**   Only good things have been happening, and that kind of scares me.\\
-> **Satoko:** What an indulgent worry! [...]\\
+> **Satoko:** What an indulgent worry! [...]
 >             Worrying about being _too_ happy is just as wasteful as missing out on a good sale at the supermarket!\\
 > **Rika:**   You're right, it _is_ a waste.\\
 > **Satoko:** Perhaps you just haven't realized the true nature of happiness, Rika.\\
 > **Rika:**   Huh?\\
-> **Satoko:** Painful moments, no matter how small, stay in our hearts forever.\\
-> But tiny moments of happiness are quickly forgotten.\\
-> Forget them, and you forget how truly blessed you are, and you instead yearn for a happiness far greater than you can bear.\\
+> **Satoko:** Painful moments, no matter how small, stay in our hearts forever.
+> But tiny moments of happiness are quickly forgotten.
+> Forget them, and you forget how truly blessed you are, and you instead yearn for a happiness far greater than you can bear.
 > I cannot think of a more unfortunate turn of events.
 > <footer><strong>Higurashi no Naku Koro ni Gou</strong> &mdash; Ep. 17</footer>
 
