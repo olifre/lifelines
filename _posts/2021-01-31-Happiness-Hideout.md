@@ -56,7 +56,7 @@ There is so much. Laughing together, enjoying a wonderful landscape, a calm nigh
 
 All these elements are usually ignored, taken for granted, erased from the equation of life,
 while a single headline in the news may burn itself into our minds so much more easily. 
-Take back control, adjust your focus. Achieve true happiness by refocussing the blurred image society has imprinted into your brain,
+Take back control, adjust your focus. Achieve true happiness by refocusing the blurred image society has imprinted into your brain,
 burned into your soul. 
 
 Turn off the autofocus which has been broken by the lifestyle we are forced to enjoy,
