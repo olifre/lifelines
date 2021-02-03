@@ -18,7 +18,7 @@ Why do we fight? Striving for gains for ourselves and friends, redirecting our p
 punching without aim, trying to fill a void within us. A void that may in turn be loss, boredom, lack of being appreciated,
 or a burning fire of revenge or jealousy, consuming us from within.
 
-There is so much more left out in this endless list of dreadful and painful emotions — the causes are endless. 
+There is so much more left out in this endless list of dreadful and painful emotions — the causes are unlimited. 
 
 ---
 
@@ -62,7 +62,7 @@ For the addicted harmony-seeker, there isn't — symptoms of withdrawal always c
 Strength to survive the internal fight, staying harmonious, is the only protection. You must wear the armour of belief in the self. 
 Only self-confidence's armament can protect this self-destructive mind under constant self-attack. 
 
-The sturdiness needs to be kept up until the wind of time has moved the wheels of war toward the next future clearing of peace in the forest of war. 
-Steel yourself, stay strong with this knowledge such as not to lose yourself.
+The sturdiness needs to be kept up until the wind of time has moved the wheels of fate toward the next future clearing of peace in the forest of war. 
+Steel yourself, stay strong with this knowledge such as not to lose yourself. 
 
 ---
