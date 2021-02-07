@@ -52,6 +52,8 @@ Don't look for the faces, the exact places, landscapes or timestamps in the cale
 Focus purely on the colours, emotions and past feelings. Let them in, take a hold of you again, and you will clearly see:
 The past is not gone, it is right there. Trace all the silver linings and the scars it has left on your heart with all its might.
 Breathe in the colours you thought were gone, and realise: these are your colours, guiding you in the present and future.
-They are yours, and they are you.
+
+They are yours, and they are you. They are not only the colours of the past, but also the colours tinging your present and future.
+Let them guide you, and don't lose yourself in reminiscence about a past long gone, be grateful and embrace the future.
 
 ---
