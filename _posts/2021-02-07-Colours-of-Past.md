@@ -8,7 +8,7 @@ What remains when pictures become grey? Is their life gone, all traces of the dr
 > "We had to move on. And to do that, some things would have to be left behind.
 > When such times come, we need not feel sad, nor guilty, nor cling to old things.
 > All we need to do is feel grateful."
-> <footer><strong>Isuna Hasekura </strong> &mdash; Spice and Wolf, Vol. 13: Side Colors III</footer>
+> <footer><strong>Isuna Hasekura</strong> &mdash; Spice and Wolf, Vol. 13: Side Colors III</footer>
 
 ---
 

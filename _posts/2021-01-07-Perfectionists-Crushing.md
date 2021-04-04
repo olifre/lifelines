@@ -7,7 +7,7 @@ excerpt: "When the mind grows empty and receptive, tranquility and creative drea
 
 > Perhaps the Church was right to teach that one should discard one's belongings and pass them to those who lacked their own.\\
 > It was an abundance of things, which made one hesitate in the face of a journey. That was all the truer for life itself.
-> <footer><strong>Isuna Hasekura </strong> &mdash; Spice and Wolf, Vol. 17: Epilogue</footer>
+> <footer><strong>Isuna Hasekura</strong> &mdash; Spice and Wolf, Vol. 17: Epilogue</footer>
 
 ---
 

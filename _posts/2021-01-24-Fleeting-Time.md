@@ -7,7 +7,7 @@ imagery which may be soon forgotten."
 ---
 
 > Even if we forget the faces of our friends, we will never forget the bonds that were carved into our souls.
-> <footer><strong>Jun Maeda </strong> &mdash; Otonashi Yuzuru in Angel Beats (2010)</footer>
+> <footer><strong>Jun Maeda</strong> &mdash; Otonashi Yuzuru in Angel Beats (2010)</footer>
 
 ---
 

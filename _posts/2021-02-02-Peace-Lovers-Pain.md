@@ -7,7 +7,7 @@ The peace lovers' lives may be less conflicted superficially, but they fight the
 ---
 > "[...] war does not bring profits forever. The profit is for an instant alone.
 > It's like setting a bushfire for warmth. Certainly it's warm, but nothing is left afterward.”
-> <footer><strong>Isuna Hasekura </strong> &mdash; Spice and Wolf, Vol. 16: The Coin of the Sun II</footer>
+> <footer><strong>Isuna Hasekura</strong> &mdash; Spice and Wolf, Vol. 16: The Coin of the Sun II</footer>
 
 ---
 

@@ -8,7 +8,7 @@ A frosty silence, a forlorn remembrance, putting the hustle and bustle to a sudd
 > Silence reigned over their travel. 
 > The only sounds were the tik, tik of snowflakes hitting coats and the long, reluctant breaths of cold air they drew into their lungs,
 > that sound magnified by the silence.
-> <footer><strong>Isuna Hasekura </strong> &mdash; Spice and Wolf, Vol. 10</footer>
+> <footer><strong>Isuna Hasekura</strong> &mdash; Spice and Wolf, Vol. 10</footer>
 
 ---
 
