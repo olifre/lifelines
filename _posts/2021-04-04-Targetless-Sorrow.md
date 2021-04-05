@@ -25,13 +25,14 @@ A knowledge embedded deep within the heart — even without experience, we detec
 in a place which should not be empty. And somehow, we know for sure this void can be filled, without any reason,
 any scientific fact to prove this emotion.
 
-Without a clear target, there is a wish. An emotion, not of clear shape, but still clearly there.
+Without a clear target, there is a wish. An emotion, not of clear shape, potentially invisible, but still clearly there, driving us on.
+The mind may not realize, but the heart, the soul, holds that wish dear, and subconsciously tries to fulfil this longing.
 A longing for warmth, an empty vial that waits to be filled, an emptiness that pulls down the heart
 with a weight so heavy the laws of physics can not explain the gravity of this void.
 
 ---
 
-> For a long time, we can live from a surrogate liquid provided by society. Emotions condensed into works of art: verses, novels, pictures, movies,
+> For a long time, we can live from a surrogate liquid provided by society. Emotions condensed into works of art: verses, novels, pictures, movies and more —
 > fragments of other lives we suck in, which become a part of ourselves, and may water the dry soil even though they are only a substitute for what we are longing for.
 
 We fill the vial to quench our thirst, to irrigate the dry soil and squelch the constant white noise of longing echoing in our souls.
