@@ -11,7 +11,8 @@ date_format:         "%B %-d, %Y"
 read_time:           true
 # Poetry is "slower" (default is 200)
 words_per_minute:    100
-mathjax:             true
+# Disable to reduce unnecessary JS for now
+mathjax:             false
 
 # Front Matter Defaults
 defaults:
