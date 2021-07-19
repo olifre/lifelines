@@ -48,6 +48,6 @@ losing the self and any serenity required to reflect on the plethora of data sou
 Only stepping back, adjusting the pace, re-synchronizing to our selves, we can sense the colours of nature and life again,
 and may escape the self-inflicted personal solitude of our minds. 
 May this big fight in our lost relationship with nature help to force the necessary tranquillity to spread after all is said and done,
-and allow us to realize we must rise to save this relationship to protect our future ---; now.
+and allow us to realize we must rise to save this relationship to protect our future --- now.
 
 ---
