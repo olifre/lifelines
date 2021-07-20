@@ -2,7 +2,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # Setup
 title:               LifeLines
-description:         'A personal, somewhat poetic blog'
+tagline:             'A personal, somewhat poetic blog'
+description:         'This personal, somewhat poetic blog by Oliver Freyermuth collects emotions, creative ideas, and uncommon quotes.'
 url:                 'https://olifre.github.io'
 baseurl:             '/lifelines'
 skin:                "/assets/css/skins/dark.css"
