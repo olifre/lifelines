@@ -1,5 +1,5 @@
 ---
-title: "Painful Fade"
+title: "Fading Flames"
 excerpt: "Clocks keep ticking, time keeps passing by, but somewhere out there, a light is fading. Slowly, painfully, silently fading away, bereft of all energy and the will to continue, slowly enveloped by the eternal dark slumber surrounding us all.
 Surrounded by sorrow, tears, but also acceptance. But a not-so-sudden disruption of life is still disruptive, and hard to accept."
 
